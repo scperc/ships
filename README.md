@@ -1,2 +1,2 @@
 # ships
-Determine longest distance traveled and plot points on map
+Determine longest distance traveled and plot coordinates on leaflet map
